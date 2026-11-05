@@ -1,0 +1,21 @@
+
+----- YAML code-----
+- name: Install Ngnix on Pathnex server
+  host: all
+  become: yes
+
+  tasks:
+     -name: Install ngnix
+      state: present
+
+
+------Docker-----
+#dOCKER installation and first container
+
+docker --version
+docker run ubuntu echo "Hello Pathnex"
+
+#Docker file
+
+FROM ubuntu:22.04
+CMD ["echo","Hello Pathnex"]
