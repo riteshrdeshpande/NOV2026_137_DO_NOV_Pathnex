@@ -1,0 +1,11 @@
+#What I did today 
+
+2 hours practice of the Docker
+
+worked for two hours on the Linux and git 
+
+again rewatched the Docker lecture for better understanding of the concepts
+
+revised the concepts and practiced hand on on docker
+
+read the notes on the docker
